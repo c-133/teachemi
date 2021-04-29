@@ -1,0 +1,4 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+23:42:57	213733/213733	---MCZ	200	added ('OK')	text/html	date:Thu,%2029%20Apr%202021%2020:42:56%20GMT	https://cdpn.io/aardrian/debug/NmoQdN	C:/Users/ASUS/Desktop/chimc/chem/cdpn.io/aardrian/debug/NmoQdN.html	(from )
+23:42:57	95/95	---MC-	301	error ('Moved%20Permanently')	text/html	date:Thu,%2029%20Apr%202021%2020:42:57%20GMT	https://cdpn.io/robots.txt		(from )
+23:42:58	2316/2316	---M--	200	added ('OK')	image/png	date:Thu,%2029%20Apr%202021%2020:42:58%20GMT	https://cpwebassets.codepen.io/assets/favicon/apple-touch-icon-5ae1a0698dcc2402e9712f7d01ed509a57814f994c660df9f7a952f3060705ee.png	C:/Users/ASUS/Desktop/chimc/chem/cpwebassets.codepen.io/assets/favicon/apple-touch-icon-5ae1a0698dcc2402e9712f7d01ed509a57814f994c660df9f7a952f3060705ee.png	(from https://cdpn.io/aardrian/debug/NmoQdN)
