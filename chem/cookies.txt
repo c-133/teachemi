@@ -1,9 +1,0 @@
-# HTTrack Website Copier Cookie File
-# This file format is compatible with Netscape cookies
-.cdpn.io	TRUE	/	FALSE	1999999999	__cfduid	db3ab385f906f987ed64adec6e844c60e1619728976
-.cdpn.io	TRUE	/	FALSE	1999999999	__cfruid	6c41a4792a11c7a280fcbb692c592494fbc6b1ed-1619728977
-cdpn.io	TRUE	/	FALSE	1999999999	SameSite	None
-.codepen.io	TRUE	/	FALSE	1999999999	__cfduid	de0c79b8b2fc1e4c87b722f759d8a268c1619728978
-.codepen.io	TRUE	/	FALSE	1999999999	__cf_bm	95b0a338cd357d4656ba3badf0ef82249d7dfc37-1619728978-1800-AXAYk9wGgM4T0FI/FAbsGDbyWl/5/nPyn7hfrzXfLHgrWcu4wB1T3yutFIdG3VB5lTuBUlBnRfkPQuZ1dQpn4KU=
-cpwebassets.codepen.io	TRUE	/	FALSE	1999999999	SameSite	None
-
